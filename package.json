@@ -1,0 +1,14 @@
+{
+  "name": "moi",
+  "version": "0.0.0",
+  "private": true,
+  "main": "/bin/card.js",
+  "scripts": {
+    "build": "node build/build.js",
+    "dev": "npm run build && node ./bin/card.js"
+  },
+  "devDependencies": {
+    "boxen": "^2.1.0",
+    "chalk": "^2.4.1"
+  }
+}
