@@ -24,24 +24,24 @@ Result:
 
 ```
 
-╔════════════════════════════════════════════════════════════════════════════╗
-║                                                                            ║
-║                                                                            ║
-║                                                                            ║
-║                       Erno Salo - Endormi                                  ║
-║                                                                            ║
-║          Work Title:  Full Stack Developer                                 ║
-║         Open Source:  Dev Isle Maintainer and Contributor to many          ║
-║             Website:  https://endormi.io                                   ║
-║                                                                            ║
-║              GitHub:  https://github.com/endormi                           ║
-║            LinkedIn:  https://linkedin.com/in/ernosalo                     ║
-║                 NPM:  https://npmjs.com/~endormi                           ║
-║                PyPI:  https://pypi.org/user/endormi                        ║
-║                                                                            ║
-║                                                                            ║
-║                                                                            ║
-║                                                                            ║
-╚════════════════════════════════════════════════════════════════════════════╝
+╔═══════════════════════════════════════════════════════════════════════════╗
+║                                                                           ║
+║                                                                           ║
+║                                                                           ║
+║                       Erno Salo - Endormi                                 ║
+║                                                                           ║
+║          Work Title:  Software Developer                                  ║
+║         Open Source:  Dev Isle Maintainer and Contributor to many         ║
+║             Website:  https://endormi.io                                  ║
+║                                                                           ║
+║              GitHub:  https://github.com/endormi                          ║
+║            LinkedIn:  https://linkedin.com/in/ernosalo                    ║
+║                 NPM:  https://npmjs.com/~endormi                          ║
+║                PyPI:  https://pypi.org/user/endormi                       ║
+║                                                                           ║
+║                                                                           ║
+║                                                                           ║
+║                                                                           ║
+╚═══════════════════════════════════════════════════════════════════════════╝
 
 ```
