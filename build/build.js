@@ -16,7 +16,7 @@ const options = {
 const data = {
   name: chalk.cyan('              Erno Salo'),
   username: chalk.cyan('Endormi'),
-  work: chalk.white('Full Stack Developer'),
+  work: chalk.white('Software Developer'),
   opensource: chalk.white('Dev Isle Maintainer and Contributor to many'),
   website: chalk.cyan('https://endormi.io'),
   github: chalk.gray('https://github.com/') + chalk.cyan('endormi'),
